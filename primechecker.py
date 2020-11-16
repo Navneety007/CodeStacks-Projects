@@ -26,7 +26,7 @@ while no<till:
     else:
         no += 1
         continue
-print("Total No.s of Primes till "+ str(till)+ " are "+str(times))
+print("Total No.s of Primes till "+ str(till)+ " are "+str(times)
         
             
         
